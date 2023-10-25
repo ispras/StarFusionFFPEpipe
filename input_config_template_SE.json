@@ -1,0 +1,12 @@
+{
+    "StarFusionFFPE.input_fastq": "",
+    "StarFusionFFPE.ctat_lib": "",
+    "StarFusionFFPE.kinases_domains": "kinase_domain_transcripts.tsv",
+    "StarFusionFFPE.exons": "exons.json",
+    "StarFusionFFPE.lncrna_list": "lncRNAs.txt",
+    "StarFusionFFPE.threads": 10,
+    "StarFusionFFPE.star_memory": 46080,
+    "StarFusionFFPE.docker": {
+        "StarFusion": "docker.io/trinityctat/starfusion:1.12.0"
+    }
+}
